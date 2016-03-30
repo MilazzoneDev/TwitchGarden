@@ -1,0 +1,42 @@
+C:\Users\Carl\Desktop\TwitchMiniGame\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Carl\Desktop\TwitchMiniGame\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Carl\Desktop\TwitchMiniGame\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Carl\Desktop\TwitchMiniGame\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Carl\Desktop\TwitchMiniGame\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Carl\Desktop\TwitchMiniGame\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Carl\Desktop\TwitchMiniGame\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Carl\Desktop\TwitchMiniGame\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Carl\Desktop\TwitchMiniGame\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Carl\Desktop\TwitchMiniGame\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Carl\Desktop\TwitchMiniGame\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Carl\Desktop\TwitchMiniGame\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Carl\Desktop\TwitchMiniGame\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Carl\Desktop\TwitchMiniGame\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Carl\Desktop\TwitchMiniGame\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Carl\Desktop\TwitchMiniGame\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Carl\Desktop\TwitchMiniGame\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Carl\Desktop\TwitchMiniGame\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Carl\Desktop\TwitchMiniGame\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Carl\Desktop\TwitchMiniGame\obj\Debug\Assembly-CSharp.dll
+C:\Users\Carl\Desktop\TwitchMiniGame\obj\Debug\Assembly-CSharp.pdb
+E:\Carl's Stuff\Projects\TwitchMiniGame\Temp\bin\Debug\Assembly-CSharp.dll
+E:\Carl's Stuff\Projects\TwitchMiniGame\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\Carl's Stuff\Projects\TwitchMiniGame\Temp\bin\Debug\UnityEditor.dll
+E:\Carl's Stuff\Projects\TwitchMiniGame\Temp\bin\Debug\UnityEngine.dll
+E:\Carl's Stuff\Projects\TwitchMiniGame\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\Carl's Stuff\Projects\TwitchMiniGame\Temp\bin\Debug\UnityEngine.UI.dll
+E:\Carl's Stuff\Projects\TwitchMiniGame\Temp\bin\Debug\Mono.Cecil.dll
+E:\Carl's Stuff\Projects\TwitchMiniGame\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\Carl's Stuff\Projects\TwitchMiniGame\Temp\bin\Debug\Unity.DataContract.dll
+E:\Carl's Stuff\Projects\TwitchMiniGame\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\Carl's Stuff\Projects\TwitchMiniGame\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\Carl's Stuff\Projects\TwitchMiniGame\Temp\bin\Debug\Unity.CecilTools.dll
+E:\Carl's Stuff\Projects\TwitchMiniGame\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\Carl's Stuff\Projects\TwitchMiniGame\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\Carl's Stuff\Projects\TwitchMiniGame\Temp\bin\Debug\UnityEngine.xml
+E:\Carl's Stuff\Projects\TwitchMiniGame\Temp\bin\Debug\UnityEditor.xml
+E:\Carl's Stuff\Projects\TwitchMiniGame\Temp\bin\Debug\UnityEngine.UI.xml
+E:\Carl's Stuff\Projects\TwitchMiniGame\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\Carl's Stuff\Projects\TwitchMiniGame\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\Carl's Stuff\Projects\TwitchMiniGame\obj\Debug\Assembly-CSharp.dll
+E:\Carl's Stuff\Projects\TwitchMiniGame\obj\Debug\Assembly-CSharp.pdb

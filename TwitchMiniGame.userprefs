@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ColorPicker.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PlantGameController.cs" Line="172" Column="59" />
+      <File FileName="Assets\Scripts\SlidingPanel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Explosion.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlantScript.cs" Line="157" Column="26" />
+      <File FileName="Assets\Scripts\HighScoreController.cs" Line="114" Column="1" />
+      <File FileName="Assets\Scripts\ScoreHolder.cs" Line="1" Column="1" />
+      <File FileName="Assets\IRC Scripts\TwitchParser.cs" Line="131" Column="1" />
+      <File FileName="Assets\Scripts\SteeringVehicle.cs" Line="198" Column="14" />
+      <File FileName="Assets\Scripts\Player.cs" Line="205" Column="2" />
+      <File FileName="Assets\IRC Scripts\TwitchIRCReader.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ColorPicker.cs" Line="94" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
